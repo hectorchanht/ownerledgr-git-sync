@@ -1,5 +1,5 @@
 name = "ownerledgr-git-sync"
-account_id = "0b9e5c70a8072908a4f186d65acd1db8"
+account_id = "f1868a071996e836eae6da2b65f37929"
 main = "worker.js"
 compatibility_date = "2025-01-01"
 
